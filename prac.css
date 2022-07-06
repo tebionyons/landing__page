@@ -1,0 +1,18 @@
+body {
+    background-color: #ffff;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: roboto, arial;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.navbar {
+    display: flex;
+    color: #F9FAF8;
+    background-color: #1f2937;
+    padding: 20px 0px 20px 100px;
+}
